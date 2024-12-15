@@ -1,4 +1,4 @@
-<div align="center">
+Awesome lists about all kinds of interesting topicsAwesome lists about all kinds of interesting topicsAwesome lists about all kinds of interesting topicsAwesome lists about all kinds of interesting topicsAwesome lists about all kinds of interesting topicsAwesome lists about all kinds of interesting topicsAwesome lists about all kinds of interesting topicsAwesome lists about all kinds of interesting topicsAwesome lists about all kinds of interesting topicsAwesome lists about all kinds of interesting topicsAwesome lists about all kinds of interesting topics<div align="center">
 	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
 	<br>
 	<br>
